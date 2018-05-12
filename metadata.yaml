@@ -1,0 +1,29 @@
+_repo: Boy-Scouts-HandbookThe-First-Edition-1911_29558
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29558-h/images/01_front_coverpic.jpg
+creator:
+  author:
+    agent_name: Boy Scouts of America
+    alias: America, Boy Scouts of
+    gutenberg_agent_id: '33988'
+    url: http://www.gutenberg.org/2009/agents/33988
+description: ''
+gutenberg_bookshelf: Scouts
+gutenberg_issued: '2009-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29558'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boy Scouts -- United States -- Handbooks, manuals, etc.'
+- !lcc 'HS'
+- !lcsh 'Boy Scouts of America -- Handbooks, manuals, etc.'
+title: 'Boy Scouts Handbook
+
+  The First Edition, 1911'
+url: http://www.gutenberg.org/ebooks/29558
